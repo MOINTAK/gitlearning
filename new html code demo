@@ -11,8 +11,6 @@
  <label for="female">male</label>
  <input type="radio" 
  value="female"><br>
- <label for="other">male</label>
- <input type="radio" 
- value="other"><br>
+
 </body>
 </html>
